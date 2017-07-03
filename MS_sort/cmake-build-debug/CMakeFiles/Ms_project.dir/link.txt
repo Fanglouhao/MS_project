@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Ms_project.dir/for_MS.cpp.o CMakeFiles/Ms_project.dir/main.cpp.o  -o Ms_project 

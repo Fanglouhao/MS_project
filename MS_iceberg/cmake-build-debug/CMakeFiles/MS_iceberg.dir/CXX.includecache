@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/apple/Desktop/MS_iceberg/Time_Order.cpp
+Time_Order.h
+/Users/apple/Desktop/MS_iceberg/Time_Order.h
+
+/Users/apple/Desktop/MS_iceberg/Time_Order.h
+iostream
+-
+vector
+-
+
+/Users/apple/Desktop/MS_iceberg/main.cpp
+iostream
+-
+fstream
+-
+Time_Order.h
+/Users/apple/Desktop/MS_iceberg/Time_Order.h
+map
+-
+sstream
+-
+vector
+-
+
